@@ -1,1 +1,2 @@
-https://Z1ggy228.github.io/HiT/
+# HiT
+https://z1ggy228.github.io/HiT
