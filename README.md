@@ -1,2 +1,2 @@
 # HiT
-https://z1ggy228.github.io/HiT
+[Посмотреть демо](https://z1ggy228.github.io/HiT)
